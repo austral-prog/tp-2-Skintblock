@@ -1,6 +1,8 @@
 #31/3/2025
 #TP2 - Rozas Miguel Agustin - Introduccion a la programacion 1
 #Ejercicio 1
+#
+#
 def ada():
     first_name = "AdA"
     last_name = "LoVeLAce"
